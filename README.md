@@ -1,3 +1,5 @@
+# NBA-Analysis
+
 # 📊 NBA Player & Team Analytics Dashboard
 
 This repository contains an interactive Power BI analytics project that explores key NBA player and team statistics. The dashboard provides insights into player performance, scoring efficiency, rebounds, assists, fouls, blocks, and much more.
@@ -90,4 +92,4 @@ The goal of this project is to visually analyze NBA datasets using Power BI. The
 
 - Add Power BI report published link
 
-# NBA-Analysis
+
